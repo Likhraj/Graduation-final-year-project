@@ -1,0 +1,7 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : my name is abc
+bot : - - I am Mark
+user : fever
+bot : - - I didn't feel better after taking the medicine.
+user : take crocin
+bot : - - My location is

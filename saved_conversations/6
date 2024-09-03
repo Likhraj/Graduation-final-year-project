@@ -1,0 +1,23 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : My name is cherry
+bot : - Hello! Noted on your name. We can start by you saying Hi!
+user : Hi
+bot : - Hello. How are you feeling today?
+user : cough
+bot : - Okay, are there any other symptoms you are feeling right now?
+user : fever
+bot : - This is potentially a symptom of Cholesteatoma. Does your ear aches? Or is there a fluid that comes out from your ears?
+user : no
+bot : - Okay, can you tell me what symptoms are you experiencing right now?
+user : head ache
+bot : - Let me ask again, are you hearing a constant sound inside your ear?
+user : headache
+bot : - Let me ask again, are you hearing a constant sound inside your ear?
+user : no
+bot : - Okay, can you tell me what symptoms are you experiencing right now?
+user : stomachace
+bot : - Okay, aside from that, what are other symptoms you are feeling?
+user : stomach ache
+bot : - Okay, aside from that, what are other symptoms you are feeling?
+user : fever
+bot : - This is potentially a symptom of Cholesteatoma. Does your ear aches? Or is there a fluid that comes out from your ears?

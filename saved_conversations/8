@@ -1,0 +1,17 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : My name is cherry
+bot : - Hello! your name has been stored. What is your age?
+user : I am 21
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : fever
+bot : - good to know. how may i assist you then?
+user : no
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : cough
+bot : - You should take a spoon full of benadryl after your meal.
+user : ok
+bot : - Good, now take some rest and then let me know if you are feeling better after having crocin.
+user : doctors
+bot : - sorry, all doctors are occupied at the moment. We will connect you to a doctor soon. Do you want to book an appointment?
+user : ys
+bot : - okay. your age has been stored. Which city do you live in?

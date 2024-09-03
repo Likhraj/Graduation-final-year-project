@@ -1,0 +1,7 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : My name is cherry
+bot : - Hello! Noted on your name. We can start by you saying Hi!
+user : Hi
+bot : - Hello. How are you feeling today?
+user : cough
+bot : - Okay, are there any other symptoms you are feeling right now?

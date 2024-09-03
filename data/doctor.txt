@@ -1,0 +1,8 @@
+- - available doctors?
+  - sorry, all doctors are occupied at the moment. We will connect you to a doctor soon. Do you want to book an appointment? mobile: 0000000
+- - can you book an apointment with a doctor?
+  - yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
+- - Patient Name Date Time Doctor Hospital
+  - appointment details saved. you shall be contacted shortly.
+- - thanks
+  - happy to help!
